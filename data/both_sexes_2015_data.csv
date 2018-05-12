@@ -1,0 +1,233 @@
+country,id,rate
+Afghanistan,0,7.1
+Albania,1,3.8
+Algeria,2,3.1
+Angola,3,25.9
+Antigua and Barbuda,4,0.0
+Argentina,5,13.9
+Armenia,6,4.6
+Australia,7,10.4
+Austria,8,11.7
+Azerbaijan,9,3.1
+Bahamas,10,1.6
+Bahrain,11,6.9
+Bangladesh,12,6.0
+Barbados,13,0.3
+Belarus,14,19.1
+Belgium,15,16.1
+Belize,16,8.3
+Benin,17,15.0
+Bhutan,18,12.1
+Bolivia,19,20.5
+Bosnia and Herz.,20,4.4
+Botswana,21,12.6
+Brazil,22,6.0
+Brunei,23,1.4
+Bulgaria,24,11.2
+Burkina Faso,25,16.5
+Burundi,26,13.0
+Cabo Verde,27,11.9
+Cambodia,28,12.8
+Cameroon,29,17.5
+Canada,30,10.4
+Central African Rep.,31,19.6
+Chad,32,14.2
+Chile,33,9.1
+China,34,8.5
+Colombia,35,6.0
+Comoros,36,12.3
+Congo,37,11.9
+Costa Rica,38,7.3
+Côte d'Ivoire,39,27.2
+Croatia,40,12.1
+Cuba,41,10.5
+Cyprus,42,3.9
+Czechia,43,10.6
+Dem. Rep. Korea,44,15.2
+Dem. Rep. Congo,45,12.2
+Denmark,46,9.1
+Djibouti,47,10.8
+Dominican Rep.,48,7.3
+Ecuador,49,7.6
+Egypt,50,3.1
+El Salvador,51,11.0
+Eq. Guinea,52,26.6
+Eritrea,53,13.2
+Estonia,54,14.9
+Ethiopia,55,12.8
+Fiji,56,8.9
+Finland,57,14.2
+France,58,12.3
+Gabon,59,12.5
+Gambia,60,11.6
+Georgia,61,5.3
+Germany,62,9.1
+Ghana,63,10.2
+Greece,64,3.2
+Greenland,65,0.4
+Guatemala,66,2.7
+Guinea,67,11.4
+Guinea-Bissau,68,9.5
+Guyana,69,30.6
+Haiti,70,11.7
+Honduras,71,4.2
+Hungary,72,15.7
+Iceland,73,11.8
+India,74,16.0
+Indonesia,75,3.0
+Iran,76,3.6
+Iraq,77,4.1
+Ireland,78,11.1
+Israel,79,5.4
+Italy,80,5.4
+Jamaica,81,1.4
+Japan,82,15.4
+Jordan,83,3.9
+Kazakhstan,84,27.5
+Kenya,85,10.5
+Kiribati,86,14.8
+Kuwait,87,4.1
+Kyrgyzstan,88,8.2
+Lao PDR,89,14.0
+Latvia,90,17.4
+Lebanon,91,3.1
+Lesotho,92,13.6
+Liberia,93,10.3
+Libya,94,6.0
+Lithuania,95,26.1
+Luxembourg,96,8.5
+Madagascar,97,8.0
+Malawi,98,10.8
+Malaysia,99,6.5
+Maldives,100,11.0
+Mali,101,10.5
+Malta,102,5.0
+Mauritania,103,9.8
+Mauritius,104,8.8
+Mexico,105,5.0
+Micronesia (Federated States of),106,11.2
+Mongolia,107,28.1
+Montenegro,108,8.7
+Morocco,109,5.2
+Mozambique,110,12.9
+Myanmar,111,4.5
+Namibia,112,10.4
+Nepal,113,7.2
+Netherlands,114,9.4
+New Zealand,115,12.3
+Nicaragua,116,9.8
+Niger,117,8.5
+Nigeria,118,15.1
+Norway,119,9.3
+Oman,120,4.8
+Pakistan,121,2.5
+Panama,122,5.6
+Papua New Guinea,123,11.9
+Paraguay,124,9.9
+Peru,125,6.0
+Philippines,126,3.8
+Poland,127,18.5
+Portugal,128,8.5
+Qatar,129,5.7
+Korea,130,24.1
+Moldova,131,12.5
+Romania,132,9.2
+Russia,133,17.9
+Rwanda,134,12.6
+Saint Lucia,135,6.7
+Saint Vincent and the Grenadines,136,2.6
+Samoa,137,7.0
+Sao Tome and Principe,138,2.6
+Saudi Arabia,139,3.9
+Senegal,140,11.8
+Serbia,141,12.1
+Seychelles,142,8.7
+Sierra Leone,143,22.1
+Singapore,144,8.6
+Slovakia,145,9.9
+Slovenia,146,15.0
+Solomon Islands,147,9.4
+Somalia,148,8.6
+South Africa,149,12.3
+South Sudan,150,9.6
+Spain,151,6.0
+Sri Lanka,152,34.6
+Sudan,153,11.4
+Suriname,154,26.9
+Swaziland,155,17.9
+Sweden,156,12.7
+Switzerland,157,10.7
+Syria,158,3.2
+Tajikistan,159,4.9
+Thailand,160,12.7
+Macedonia,161,6.4
+Timor-Leste,162,9.4
+Togo,163,15.4
+Tonga,164,4.1
+Trinidad and Tobago,165,13.2
+Tunisia,166,5.4
+Turkey,167,8.6
+Turkmenistan,168,10.3
+Uganda,169,12.6
+Ukraine,170,16.6
+United Arab Emirates,171,2.8
+United Kingdom,172,7.4
+Tanzania,173,11.0
+Alabama,174,12.6
+Alaska,175,12.6
+Arizona,176,12.6
+Arkansas,177,12.6
+California,178,12.6
+Colorado,179,12.6
+Connecticut,180,12.6
+Delaware,181,12.6
+Florida,182,12.6
+Georgia,183,12.6
+Hawaii,184,12.6
+Idaho,185,12.6
+Illinois,186,12.6
+Indiana,187,12.6
+Iowa,188,12.6
+Kansas,189,12.6
+Kentucky,190,12.6
+Louisiana,191,12.6
+Maine,192,12.6
+Maryland,193,12.6
+Massachusetts,194,12.6
+Michigan,195,12.6
+Minnesota,196,12.6
+Mississippi,197,12.6
+Missouri,198,12.6
+Montana,199,12.6
+Nebraska,200,12.6
+Nevada,201,12.6
+New Hampshire,202,12.6
+New Jersey,203,12.6
+New Mexico,204,12.6
+New York,205,12.6
+North Carolina,206,12.6
+North Dakota,207,12.6
+Ohio,208,12.6
+Oklahoma,209,12.6
+Oregon,210,12.6
+Pennsylvania,211,12.6
+Rhode Island,212,12.6
+South Carolina,213,12.6
+South Dakota,214,12.6
+Tennessee,215,12.6
+Texas,216,12.6
+Utah,217,12.6
+Vermont,218,12.6
+Virginia,219,12.6
+Washington,220,12.6
+West Virginia,221,12.6
+Wisconsin,222,12.6
+Wyoming,223,12.6
+Uruguay,224,15.2
+Uzbekistan,225,9.2
+Vanuatu,226,7.0
+Venezuela,227,3.1
+Vietnam,228,7.2
+Yemen,229,9.4
+Zambia,230,11.2
+Zimbabwe,231,18.0
